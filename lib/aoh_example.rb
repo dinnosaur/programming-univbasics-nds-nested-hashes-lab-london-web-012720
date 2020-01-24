@@ -35,7 +35,7 @@ def literal_aoh
 end
 
 def aoh_lookup(aoh, row, key)
-
+Assembled_A[row][key]
 
 end
 
